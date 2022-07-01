@@ -25,11 +25,11 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
-global.autoRecord = true //auto recording (true to on, false to off)
+global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
+global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //documents variants
@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc"
-global.ytname = "YT:ARULL OFC " //ur yt chanel name
-global.socialm = "GitHub: Warikrr" //ur github or insta name
-global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
+global.owner = ['6282127081926'] //ur owner number
+global.ownername = "Ikmal"
+global.ytname = "YT:Ikmal " //ur yt chanel name
+global.socialm = "GitHub: IkmalMtp2" //ur github or insta name
+global.location = "Indonesia, Pulau Jawa, Karawang" //ur location
 
 //bot bombdy
-global.botname = "ArullBotz" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
+global.botname = "FrezeXBOT" //ur bot name
+global.websitex = "https://youtube.com/channel/UCk2nwucP_xvVekaokk0QnWg" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "Sticker By"
-global.author = "ArullBotz"
-global.themeemoji = "🐶"
-global.reactmoji = "🗿"
-global.ownertag = ['ArullOfc'] //ur owner tag
-global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
-global.watermark = "ArullBotz" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS"
-global.linkz2 = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"
+global.packname = "Sticker"
+global.author = "You"
+global.themeemoji = "👨‍💻"
+global.reactmoji = "😏"
+global.ownertag = ['Ikmal'] //ur owner tag
+global.ownernummenu = ['6282127081926'] //ur owner number in menu and all
+global.watermark = "© Ikmal" //ur watermark
+global.botscript = "https://www.mediafire.com/jB8oFle0"
+global.linkz1 = "https://chat.whatsapp.com/ILzsPmlSaGrHAKfMaCexlw"
+global.linkz2 = "https://youtube.com/channel/UCk2nwucP_xvVekaokk0QnWg"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -101,10 +101,10 @@ global.mess = {
     group: '*Khusus Didalam Group*',
     private: '*Khusus Chat Private*',
     bot: '*Khusus Yang Jadibot*',
-    wait: '*Sabar...Orang sabar disayang janda*',
+    wait: '*Proses.*',
     linkm: '*Linknya Mana?*',
-    error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    error: 'Not Found',
+    ban: 'Kamu Telah Di Ban Owner!.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
