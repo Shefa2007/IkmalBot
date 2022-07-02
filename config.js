@@ -27,7 +27,7 @@ const chalk = require("chalk")
 //aumto functioner
 global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
@@ -54,7 +54,7 @@ global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker"
 global.author = "You"
 global.themeemoji = "👨‍💻"
-global.reactmoji = "😏"
+global.reactmoji = "👨‍💻"
 global.ownertag = ['Ikmal'] //ur owner tag
 global.ownernummenu = ['6282127081926'] //ur owner number in menu and all
 global.watermark = "© Ikmal" //ur watermark
@@ -105,21 +105,21 @@ global.mess = {
     linkm: '*Linknya Mana?*',
     error: 'Not Found',
     ban: 'Kamu Telah Di Ban Owner!.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    nsfw: 'Fitur Tidak Di Aktifkan!',
+    banChat: 'Chat Ini Di Ban Oleh Owner!'
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
-    monayawal: 1000
+    free: 50,
+    monayawal: 5000
 }
    global.rpg = {
    darahawal: 100,
    besiawal: 95,
    goldawal: 30,
    emeraldawal: 8,
-   umpanawal: 10,
-   potionawal: 5
+   umpanawal: 5,
+   potionawal: 10
 }
 global.limitawal = {
     rakyat: "Infinity",
