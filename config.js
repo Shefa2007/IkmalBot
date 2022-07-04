@@ -41,23 +41,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6282127081926'] //ur owner number
-global.ownername = "Ikmal"
-global.ytname = "YT:Ikmal " //ur yt chanel name
-global.socialm = "GitHub: IkmalMtp2" //ur github or insta name
-global.location = "Indonesia, Pulau Jawa, Karawang" //ur location
+global.owner = ['6285707158172'] //ur owner number
+global.ownername = "ZACKY"
+global.ytname = "TENCION GTPS " //ur yt chanel name
+global.socialm = "GitHub: SHEFA2007" //ur github or insta name
+global.location = "Indonesia, Pulau Jawa, SURABAYA" //ur location
 
 //bot bombdy
-global.botname = "FrezeXBOT" //ur bot name
+global.botname = "ZACKYBOT" //ur bot name
 global.websitex = "https://youtube.com/channel/UCk2nwucP_xvVekaokk0QnWg" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker"
 global.author = "You"
 global.themeemoji = "👨‍💻"
 global.reactmoji = "👨‍💻"
-global.ownertag = ['Ikmal'] //ur owner tag
-global.ownernummenu = ['6282127081926'] //ur owner number in menu and all
-global.watermark = "© Ikmal" //ur watermark
+global.ownertag = ['ZACKY'] //ur owner tag
+global.ownernummenu = ['6285707158172'] //ur owner number in menu and all
+global.watermark = "© ZACKY" //ur watermark
 global.botscript = "https://www.mediafire.com/jB8oFle0"
 global.linkz1 = "https://chat.whatsapp.com/ILzsPmlSaGrHAKfMaCexlw"
 global.linkz2 = "https://youtube.com/channel/UCk2nwucP_xvVekaokk0QnWg"
